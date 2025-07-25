@@ -1,0 +1,27 @@
+{
+  "name": "modsy",
+  "version": "1.0.0",
+  "description": "Easily stitch your node_modules anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visddoc/modsy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visddoc/modsy/issues"
+  },
+  "homepage": "https://github.com/visddoc/modsy#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "glob": "^11.0.3",
+    "puppeteer": "^24.15.0"
+  }
+}
