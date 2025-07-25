@@ -1,0 +1,12 @@
+# Core server framework
+express
+
+# Untuk baca file dan folder
+glob
+
+# WhatsApp Web automation
+puppeteer
+
+# Optional: modul bantu
+dotenv
+chalk
